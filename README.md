@@ -68,7 +68,7 @@ See
 for more details.
 
 Please join our
-[Community Discord](https://discord.com/invite/YsnTPcSfWQ)
+[Community Discord](https://discord.com/invite/eYAGGz5W3b)
 to ask questions, discuss your ideas, and connect with other contributors.
 
 ### Helpful commands
